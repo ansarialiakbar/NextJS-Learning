@@ -1,0 +1,9 @@
+.card{
+    border: 1px solid #ec9999;
+    border-radius: 8px;
+}
+.cardTitle{
+    font-size: 24px;
+    color: #e06d6d;
+    padding: 16px;
+}
